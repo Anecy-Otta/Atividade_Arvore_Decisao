@@ -10,7 +10,7 @@ Trabalho prático desenvolvido para a disciplina de **Aprendizado de Máquina**,
 
 ##  Objetivos da Atividade
 
-1. **Importação e Preparação:** Extrair o *Heart Disease Dataset* por meio da biblioteca `ucimlrepo`, utilizando o conjunto de dados disponibilizado pelo UCI Machine Learning Repository.
+1. **Importação e Preparação:** Extrair o *Heart Disease Dataset* por meio da biblioteca `ucimlrepo`, utilizando o conjunto de dados disponibilizado pela Universidade da Califórnia em Irvine (o UCI Machine Learning Repository).
 
 2. **Análise de Colisões:** Identificar se existem colisões de registros, ou seja, pacientes com atributos preditores idênticos, mas com diagnósticos de saída diferentes.
 
